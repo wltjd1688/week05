@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "memlib.h": "c",
+        "config.h": "c",
+        "unistd.h": "c",
+        "errno.h": "c"
+    }
+}
